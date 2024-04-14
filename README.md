@@ -9,7 +9,7 @@ I am originally from India but currently living in Berlin, Germany.
   </tr>
   <tr>
     <td>
-<img src="https://github.com/dearestpankaj/dearestpankaj/assets/987922/16319509-5077-4dcd-a772-af708caa9c23" width="86" height="200"/>
+<img src="https://github.com/dearestpankaj/dearestpankaj/assets/987922/16319509-5077-4dcd-a772-af708caa9c23" />
     </td><td>
       <p>Building tomorrow's apps today, with code that's tested to perfection. 🚀</p>
       <p>I like to keep things clean. contribute to code as I come across issues that I think have scope for improvement and will add value even if it is by a tiny bit. After all, these tiny bits add up to a clean, scalable, fast and bug free code.</p>
@@ -17,7 +17,6 @@ I am originally from India but currently living in Berlin, Germany.
   </tr>
 </Table>
 
-<img src="https://github.com/dearestpankaj/dearestpankaj/assets/987922/16319509-5077-4dcd-a772-af708caa9c23" width="86" height="200"/>
     
       <p>Building tomorrow's apps today, with code that's tested to perfection. 🚀</p>
       <p>I like to keep things clean. contribute to code as I come across issues that I think have scope for improvement and will add value even if it is by a tiny bit. After all, these tiny bits add up to a clean, scalable, fast and bug free code.</p>
