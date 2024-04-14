@@ -16,12 +16,12 @@
 
 <Table>
   <tr>
-    <td></td><td>Boy Scout Rule</td>
+    <td></td><td><h1>Boy Scout Rule</h1></td>
   </tr>
   <tr>
     <td>
 <!--       ![boy-scout](https://github.com/dearestpankaj/dearestpankaj/assets/987922/16319509-5077-4dcd-a772-af708caa9c23) -->
-<img src="https://github.com/dearestpankaj/dearestpankaj/assets/987922/16319509-5077-4dcd-a772-af708caa9c23" width="50" height="150"/>
+<img src="https://github.com/dearestpankaj/dearestpankaj/assets/987922/16319509-5077-4dcd-a772-af708caa9c23" width="750" height="300"/>
     </td><td>I love open source. I am not a heavy maintainer of any large libraries, but I really like the boyscout rule. I contribute to things as I come across issues that I think other people might struggle with. This may be things that are overlooked by someone who is deep into the library. I 💕 a good onboarding readme with good example.</td>
   </tr>
 </Table>
