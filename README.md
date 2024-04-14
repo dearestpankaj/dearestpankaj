@@ -39,7 +39,7 @@ Here are a few projects I've worked on:
 - [Virgin Australia iOS App](https://apps.apple.com/au/app/virgin-australia/id1060472593): Leading airline operated in Australia. The mobile application allows users to book / view their trip and view latest offers on fares. Users can also see their upcoming and past trip details.    
 **Technologies**: iOS, Swift, RxSwift, Realm, MVVM
 
-
+##
 - 🔭 I’m currently working on AirBnB Clone as a side project for learning purpose(please do not tell AirBnB about it, I don't have legal insurance)
 - 🌱 I’m currently learning AWS Serverless Architecture and Deutsche Language(I want to stop saying Ich verstehe wenig Deutsch :de:)
 
