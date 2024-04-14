@@ -20,7 +20,8 @@ I am originally from India but currently living in Berlin, Germany.
 
 Here are a few projects I've worked on:
 
-- [Virgin Australia iOS App]([link](https://apps.apple.com/au/app/virgin-australia/id1060472593)): Brief description of the project and your role in it.
+- [Virgin Australia iOS App](https://apps.apple.com/au/app/virgin-australia/id1060472593): Virgin Australia is a leading airline operated in Australia. The mobile application allows users to book / view their trip and view latest offers on fares. Users can also see their upcoming and past trip details.
+
 
 
 
