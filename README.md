@@ -32,7 +32,7 @@ I am originally from India but currently living in Berlin, Germany.
 - **CI/CD**: Skilled in setting up Continuous Integration (CI) and Continuous Deployment (CD) pipelines using tools like Jenkins, GitHub Actions, Fastlane, and Bitrise to automate the build, test, and deployment processes.
 - **Agile Methodologies**: Experienced in working in agile teams, practicing Scrum or Kanban methodologies, participating in sprint planning, daily stand-ups, retrospectives, and other agile ceremonies to deliver high-quality software products iteratively and collaboratively.
 
-## Projects
+## Projects :flashlight:
 
 Here are a few projects I've worked on:
 
