@@ -22,7 +22,7 @@
     <td>
 <!--       ![boy-scout](https://github.com/dearestpankaj/dearestpankaj/assets/987922/16319509-5077-4dcd-a772-af708caa9c23) -->
 <img src="https://github.com/dearestpankaj/dearestpankaj/assets/987922/16319509-5077-4dcd-a772-af708caa9c23" width="86" height="200"/>
-    </td><td>I love open source. I am not a heavy maintainer of any large libraries, but I really like the boyscout rule. I contribute to things as I come across issues that I think other people might struggle with. This may be things that are overlooked by someone who is deep into the library. I 💕 a good onboarding readme with good example.</td>
+    </td><td>I like to keep things clean. I contribute to things as I come across issues that I think have scope for improvement and will add value even if it is by a tiny bit. After all, these tiny bits add up to a clean, scalable, fast and bug free code</td>
   </tr>
 </Table>
 
