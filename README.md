@@ -5,7 +5,7 @@ I am originally from India but currently living in Berlin, Germany.
 
 <Table>
   <tr>
-    <td></td><td><h1>Boy Scout Rule</h1></td>
+    <td colspan="2"><h1>Boy Scout Rule</h1></td>
   </tr>
   <tr>
     <td>
