@@ -19,7 +19,7 @@ I am originally from India but currently living in Berlin, Germany.
 </Table>
 
 
-## Skills
+## Skills 🛠️ 
 
 - **iOS Development**: Proficient in Swift and Objective-C, with extensive experience in building native iOS applications for iPhone, iPad, and Apple Watch.
 - **SwiftUI**: Skilled in SwiftUI, the modern declarative UI framework for building beautiful and intuitive user interfaces across all Apple platforms.
