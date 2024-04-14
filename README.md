@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pankaj Sachdeva, a passionate mobile engineer with expertise in iOS, Swift, SwiftUI, Objective C, Flutter, and Kotlin Multiplatform. I love building innovative and user-friendly mobile applications that make a positive impact. 
+I'm Pankaj Sachdeva, a passionate mobile engineer with expertise in iOS, Swift, SwiftUI, Objective C, Flutter, and Kotlin Multiplatform. I love building innovative and user-friendly mobile applications that make a positive impact. <br>
 I am originally from India but currently living in Berlin, Germany.
 
 <Table>
@@ -12,7 +12,6 @@ I am originally from India but currently living in Berlin, Germany.
 <!--       ![boy-scout](https://github.com/dearestpankaj/dearestpankaj/assets/987922/16319509-5077-4dcd-a772-af708caa9c23) -->
 <img src="https://github.com/dearestpankaj/dearestpankaj/assets/987922/16319509-5077-4dcd-a772-af708caa9c23" width="86" height="200"/>
     </td><td><p>I like to keep things clean. I contribute to code as I come across issues that I think have scope for improvement and will add value even if it is by a tiny bit. After all, these tiny bits add up to a clean, scalable, fast and bug free code.</p>
-      <p>Building tomorrow's apps today, with code that's tested to perfection. 🚀</p>
     </td>
   </tr>
 </Table>
