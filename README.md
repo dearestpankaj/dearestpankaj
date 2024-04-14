@@ -17,10 +17,6 @@ I am originally from India but currently living in Berlin, Germany.
   </tr>
 </Table>
 
-    
-      <p>Building tomorrow's apps today, with code that's tested to perfection. 🚀</p>
-      <p>I like to keep things clean. contribute to code as I come across issues that I think have scope for improvement and will add value even if it is by a tiny bit. After all, these tiny bits add up to a clean, scalable, fast and bug free code.</p>
-    
 
 ## Skills 🛠️ 
 
