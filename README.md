@@ -44,7 +44,8 @@ Here are a few projects I've worked on:
 - [European Tour](https://apps.apple.com/de/app/dp-world-tour/id573521629): The application is for golf followers. They can get latest information about golf tournaments, view live matches/ highlights, view and follow players. Users can also view leaderboard, ranking and upcoming tournaments. They also receive push notifications related to different tournaments based upon configuration set up by user.    
 **Technologies**: iOS sdk 10.0, Swift, Push Notifications, Core Location, Core Data, Cocoapods, Brightcove video cloud
 
-
+- [Instant Feedback App for Haufe]: Application helps users to share feedback to other users. They can search other users, select feedback category and share it with user. Application is integrated with Bloc Architecture, push notification, internationalization, gitlab CI/CD and uses latest Flutter framework.
+Technologies: Flutter, iOS, Android, Gitlab, Bloc Architecture.
 
 ## Few lines more.. ⚡
 - 🔭 I’m currently working on [AirBnB Clone](https://github.com/dearestpankaj/AirBnBClone) as a side project for learning purpose(please do not tell AirBnB about it, I don't have legal insurance :fearful:)
