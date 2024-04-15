@@ -48,7 +48,7 @@ Here are a few projects I've worked on:
 **Technologies**: iOS sdk 10.0, Swift, Push Notifications, Core Location, Core Data, Cocoapods, Brightcove video cloud
 
 ## Few lines more.. ⚡
-- 🔭 I’m currently working on [AirBnB Clone](https://github.com/dearestpankaj/AirBnBClone) as a side project for learning purpose(please do not tell AirBnB about it, I don't have legal insurance :fearful:)
+- 🔭 I’m currently working on [AirBnB Clone](https://github.com/dearestpankaj/AirBnBClone) (SwiftUI) as a side project for learning purpose(please do not tell AirBnB about it, I don't have legal insurance :fearful:)
 - 🌱 I’m currently learning AWS Serverless Architecture and Deutsche Language(I want to stop saying Ich verstehe wenig Deutsch :de:)
 
 
