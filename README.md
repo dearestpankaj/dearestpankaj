@@ -26,11 +26,11 @@ I am originally from India but currently living in Berlin, Germany.
 - **Kotlin Multiplatform**: Knowledgeable in Kotlin Multiplatform, enabling code sharing between Android and iOS platforms for faster development and maintenance.
 - **Mobile Architecture**: Well-versed in various mobile architectural patterns, including MVVM, MVP, VIPER and Clean Architecture, to ensure scalable, maintainable, and testable codebases.
 - **RESTful APIs and Networking**: Proficient in integrating with RESTful APIs and handling network requests using URLSession, Alamofire, Retrofit, and Dio.
-- **Database Management**: Experienced in working with local databases, including CoreData, Realm, and SQLite, for efficient data storage and management.
 - **Version Control**: Skilled in using Git and GitHub for version control, collaboration, and code management in both individual and team projects.
 - **CI/CD**: Skilled in setting up Continuous Integration (CI) and Continuous Deployment (CD) pipelines using tools like Jenkins, GitHub Actions, Fastlane, and Bitrise to automate the build, test, and deployment processes.
 - **Agile Methodologies**: Experienced in working in agile teams, practicing Scrum or Kanban methodologies, participating in sprint planning, daily stand-ups, retrospectives, and other agile ceremonies to deliver high-quality software products iteratively and collaboratively.
-
+- **Backend Technologies**: Experienced with C#, PHP and node.js   
+  
 ## Projects :flashlight:
 
 Here are a few projects I've worked on:
