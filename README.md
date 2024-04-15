@@ -38,7 +38,7 @@ Here are a few projects I've worked on:
 - [Virgin Australia iOS App](https://apps.apple.com/au/app/virgin-australia/id1060472593): Leading airline operated in Australia. The mobile application allows users to book / view their trip and view latest offers on fares. Users can also see their upcoming and past trip details.    
 **Technologies**: iOS, Swift, RxSwift, Realm, MVVM
 
-- **Instant Feedback App for Haufe**: Application helps users to share feedback to other users. They can search other users, select feedback category and share it with user. Application is integrated with Bloc Architecture, push notification, internationalization, gitlab CI/CD and uses latest Flutter framework.
+- **Instant Feedback App for Haufe**: Application helps users to share feedback to other users. They can search other users, select feedback category and share it with user. Application is integrated with Bloc Architecture, push notification, internationalization, gitlab CI/CD and uses latest Flutter framework.    
 **Technologies**: Flutter, iOS, Android, Gitlab, Bloc Architecture.
 
 - [Hilti On Track](https://apps.apple.com/us/app/hilti-on-track-3/id1440949754): Hilti manufactures latest tools and equipment used in construction activities. The tools share its data with mobile app through BLE or NFC. Application is built on layered architecture and supports MVP design pattern. The application interacts with multiple complex web services and does data processing.    
