@@ -35,6 +35,9 @@ I am originally from India but currently living in Berlin, Germany.
 
 Here are a few projects I've worked on:
 
+- [Vivy iOS App by Allianz]: Vivy is a health focused company owned by Allianz. The application helps user manage their Health using Health Programs, Symptom assessment for sick people and make video calls with Doctors through Telehealth. Users can also add their medication plan, search for doctors, and import their health data from Apple Health.    
+**Technologies**:  iOS, Swift, Programmatically Created UI, SwiftUI, RxSwift, Realm, VIPER.
+
 - [Virgin Australia iOS App](https://apps.apple.com/au/app/virgin-australia/id1060472593): Leading airline operated in Australia. The mobile application allows users to book / view their trip and view latest offers on fares. Users can also see their upcoming and past trip details.    
 **Technologies**: iOS, Swift, RxSwift, Realm, MVVM
 
