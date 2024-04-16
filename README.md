@@ -42,10 +42,10 @@ Here are a few projects I've worked on:
 **Technologies**: Flutter, iOS, Android, Gitlab, Bloc Architecture.
 
 - [Hilti On Track](https://apps.apple.com/us/app/hilti-on-track-3/id1440949754): Hilti manufactures latest tools and equipment used in construction activities. The tools share its data with mobile app through BLE or NFC. Application is built on layered architecture and supports MVP design pattern. The application interacts with multiple complex web services and does data processing.    
-**Technologies**: iOS sdk 11.0, Swift, NFC, RxSwift, Realm, Cocoapods, SwiftyJSON
+**Technologies**: iOS, Swift, NFC, RxSwift, Realm, Cocoapods, SwiftyJSON
 
 - [European Tour](https://apps.apple.com/de/app/dp-world-tour/id573521629): The application is for golf followers. They can get latest information about golf tournaments, view live matches/ highlights, view and follow players. Users can also view leaderboard, ranking and upcoming tournaments. They also receive push notifications related to different tournaments based upon configuration set up by user.    
-**Technologies**: iOS sdk 10.0, Swift, Push Notifications, Core Location, Core Data, Cocoapods, Brightcove video cloud
+**Technologies**: iOS, Swift, Push Notifications, Core Location, Core Data, Cocoapods, Brightcove video cloud
 
 ## Few lines more.. ⚡
 - 🔭 I’m currently working on [AirBnB Clone](https://github.com/dearestpankaj/AirBnBClone) (SwiftUI) as a side project for learning purpose(please do not tell AirBnB about it, I don't have legal insurance :fearful:)
