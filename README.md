@@ -60,7 +60,7 @@ Here are a few projects I've worked on:
 Let's connect and collaborate! Feel free to reach out to me via:
 
 - [LinkedIn](https://www.linkedin.com/in/pasachdeva/)
-- [Email](pankajsachdeva.de@gmail.com)
+- [Email](mailto:pankajsachdeva.de@gmail.com)
 
 I'm open to new opportunities and exciting projects. Let's build something amazing together!
 
