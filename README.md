@@ -1,80 +1,111 @@
-### Hi there 👋
+# Pankaj Sachdeva
 
-I'm Pankaj Sachdeva, a passionate mobile engineer with expertise in iOS, Swift, SwiftUI, Objective C, Flutter, and Kotlin Multiplatform. I love building innovative and user-friendly mobile applications that make a positive impact. <br>
-I am originally from India but currently living in Berlin, Germany.
+Senior Mobile Engineer based in Berlin 🇩🇪, specialising in iOS and 
+Kotlin Multiplatform (KMP). I build production-grade mobile applications 
+with clean architecture, thorough testing, and a strong eye for 
+platform-native experience.
 
-<Table>
-  <tr>
-    <td colspan="2"><h1>Boy Scout Rule</h1></td>
-  </tr>
-  <tr>
-    <td>
-<img src="https://github.com/dearestpankaj/dearestpankaj/assets/987922/16319509-5077-4dcd-a772-af708caa9c23" />
-    </td><td>
-      <p>Building tomorrow's apps today, with code that's tested to perfection. 🚀</p>
-      <p>I like to keep things clean. contribute to code as I come across issues that I think have scope for improvement and will add value even if it is by a tiny bit. After all, these tiny bits add up to a clean, scalable, fast and bug free code.</p>
-    </td>
-  </tr>
-</Table>
+**Available for freelance engagements** — feel free to reach out.
 
+📧 pankajsachdeva.de@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/pasachdeva/)
 
-## Skills 🛠️ 
+---
 
-- **iOS Development**: Proficient in Swift and Objective-C, with extensive experience in building native iOS applications for iPhone, iPad, and Apple Watch.
-- **SwiftUI**: Skilled in SwiftUI, the modern declarative UI framework for building beautiful and intuitive user interfaces across all Apple platforms.
-- **Flutter**: Experienced in Flutter, Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
-- **Kotlin Multiplatform**: Knowledgeable in Kotlin Multiplatform, enabling code sharing between Android and iOS platforms for faster development and maintenance.
-- **Mobile Architecture**: Well-versed in various mobile architectural patterns, including MVVM, MVP, VIPER and Clean Architecture, to ensure scalable, maintainable, and testable codebases.
-- **RESTful APIs and Networking**: Proficient in integrating with RESTful APIs and handling network requests using URLSession, Alamofire, Retrofit, and Dio.
-- **Version Control**: Skilled in using Git and GitHub for version control, collaboration, and code management in both individual and team projects.
-- **CI/CD**: Skilled in setting up Continuous Integration (CI) and Continuous Deployment (CD) pipelines using tools like Jenkins, GitHub Actions, Fastlane, and Bitrise to automate the build, test, and deployment processes.
-- **Agile Methodologies**: Experienced in working in agile teams, practicing Scrum or Kanban methodologies, participating in sprint planning, daily stand-ups, retrospectives, and other agile ceremonies to deliver high-quality software products iteratively and collaboratively.
-- **Backend Technologies**: Experienced with C#, PHP and node.js   
-  
-## Projects :flashlight:
+## What I Do
 
-Here are a few projects I've worked on:
+- **iOS Development** — Swift, SwiftUI, UIKit, Combine, async/await. 
+  Native apps built to Apple's design standards with clean, 
+  testable architecture.
+- **Kotlin Multiplatform (KMP)** — shared business logic across iOS and 
+  Android. Full stack: networking, persistence, DI, and platform-native UI 
+  on both ends.
+- **Cross-platform** — Flutter for teams that need a single codebase 
+  without sacrificing quality.
+- **Architecture** — MVVM, VIPER, Clean Architecture, TCA. I care about 
+  codebases that are maintainable years later, not just at launch.
+- **CI/CD** — GitHub Actions, Bitrise, Fastlane. Automated pipelines 
+  from commit to release.
 
-- **Vivy iOS App by Allianz**: Vivy is a health focused company owned by Allianz. The application helps user manage their Health using Health Programs, Symptom assessment for sick people and make video calls with Doctors through Telehealth. Users can also add their medication plan, search for doctors, and import their health data from Apple Health.    
-**Technologies**:  iOS, Swift, Programmatically Created UI, SwiftUI, Combine, Realm, VIPER, Bitrise.
+---
 
-- [Virgin Australia iOS App](https://apps.apple.com/au/app/virgin-australia/id1060472593): Leading airline operated in Australia. The mobile application allows users to book / view their trip and view latest offers on fares. Users can also see their upcoming and past trip details.    
-**Technologies**: iOS, Swift, RxSwift, Realm, MVVM
+## Commercial Projects
 
-- **Instant Feedback App for Haufe**: Application helps users to share feedback to other users. They can search other users, select feedback category and share it with user. Application is integrated with Bloc Architecture, push notification, internationalization, gitlab CI/CD and uses latest Flutter framework.    
-**Technologies**: Flutter, iOS, Android, Gitlab, Bloc Architecture.
+**Vivy — Health App by Allianz**  
+Health management app covering symptom assessment, telehealth video 
+consultations, medication plans, and Apple Health integration.  
+*iOS · Swift · SwiftUI · Combine · Realm · VIPER · Bitrise*
 
-- [Hilti On Track](https://apps.apple.com/us/app/hilti-on-track-3/id1440949754): Hilti manufactures latest tools and equipment used in construction activities. The tools share its data with mobile app through BLE or NFC. Application is built on layered architecture and supports MVP design pattern. The application interacts with multiple complex web services and does data processing.    
-**Technologies**: iOS, Swift, NFC, RxSwift, Realm, Cocoapods, SwiftyJSON
+---
 
-- [European Tour](https://apps.apple.com/de/app/dp-world-tour/id573521629): The application is for golf followers. They can get latest information about golf tournaments, view live matches/ highlights, view and follow players. Users can also view leaderboard, ranking and upcoming tournaments. They also receive push notifications related to different tournaments based upon configuration set up by user.    
-**Technologies**: iOS, Swift, Push Notifications, Core Location, Core Data, Cocoapods, Brightcove video cloud
+**[Virgin Australia](https://apps.apple.com/au/app/virgin-australia/id1060472593)**  
+Passenger app for one of Australia's leading airlines — trip booking, 
+fare offers, and travel history.  
+*iOS · Swift · RxSwift · Realm · MVVM*
 
-## Few lines more.. ⚡
-- 🔭 I’m currently working on [AirBnB Clone](https://github.com/dearestpankaj/AirBnBClone) (SwiftUI) as a side project for learning purpose
-- 🌱 I’m currently learning AWS Serverless Architecture and Deutsche Language
+---
 
+**[Hilti ON!Track](https://apps.apple.com/us/app/hilti-on-track-3/id1440949754)**  
+Asset tracking app for construction tools, communicating over BLE and NFC. 
+Complex web service integration and real-time data processing.  
+*iOS · Swift · NFC · BLE · RxSwift · Realm · MVP*
 
-## Connect with Me
+---
 
-Let's connect and collaborate! Feel free to reach out to me via:
+**[DP World Tour (European Tour)](https://apps.apple.com/de/app/dp-world-tour/id573521629)**  
+Live golf tournament tracking with leaderboards, player profiles, video 
+highlights, and push notification configuration.  
+*iOS · Swift · Core Data · Core Location · Brightcove · Push Notifications*
 
-- [LinkedIn](https://www.linkedin.com/in/pasachdeva/)
-- [Email](mailto:pankajsachdeva.de@gmail.com)
+---
 
-I'm open to new opportunities and exciting projects. Let's build something amazing together!
+**Haufe Instant Feedback**  
+Internal feedback platform for enterprise users — search, categorise, 
+and send feedback with full CI/CD integration.  
+*Flutter · iOS · Android · Bloc Architecture · GitLab CI/CD*
 
-<!--
-**dearestpankaj/dearestpankaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Side Project — DieMenschen 🚧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A cross-platform mobile app built with **Kotlin Multiplatform**, sharing 
+business logic across iOS and Android while delivering fully native UI 
+on each platform.
+
+Most KMP demos stop at sharing a `String`. DieMenschen implements the 
+full production stack.
+
+| Layer | Technology |
+|---|---|
+| Shared logic | Kotlin Multiplatform (KMP) |
+| Networking | Ktor |
+| Dependency injection | Koin |
+| Local persistence | SQLDelight |
+| Swift/Kotlin interop | SKIE |
+| iOS UI | SwiftUI |
+| Android UI | Jetpack Compose |
+| Architecture | Clean Architecture · Repository pattern |
+
+---
+
+## Skills at a Glance
+
+**Languages**: Swift · Kotlin · Dart · Objective-C  
+**iOS**: SwiftUI · UIKit · Combine · async/await · CoreData · CoreLocation · 
+NFC · BLE · Push Notifications · HealthKit  
+**Multiplatform**: KMP · Flutter · SKIE  
+**Architecture**: MVVM · VIPER · MVP · Clean Architecture · TCA  
+**Networking**: Ktor · URLSession · Alamofire · Retrofit  
+**Persistence**: SQLDelight · Realm · CoreData  
+**DI**: Koin · Swinject  
+**Testing**: XCTest · Swift Testing · Cuckoo · MockK  
+**CI/CD**: GitHub Actions · Bitrise · Fastlane · Jenkins  
+**Tools**: Git · Xcode · Android Studio · Instruments
+
+---
+
+## Currently
+
+- 🔧 Building **DieMenschen** — production-grade KMP for iOS & Android
+- 📍 Based in **Berlin, Germany**
+- 🤝 Open to **freelance mobile projects** (iOS, KMP, Flutter)
