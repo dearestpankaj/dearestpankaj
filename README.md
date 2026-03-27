@@ -1,6 +1,6 @@
 # Pankaj Sachdeva
 
-Senior Mobile Engineer based in Berlin 🇩🇪, specialising in iOS and 
+Senior Mobile Engineer based in Berlin 🇩🇪, specialising in iOS, Android, Flutter and 
 Kotlin Multiplatform (KMP). I build production-grade mobile applications 
 with clean architecture, thorough testing, and a strong eye for 
 platform-native experience.
