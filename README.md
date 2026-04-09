@@ -1,8 +1,8 @@
 # Hi, I'm Pankaj Sachdeva 👋
 
-Senior Mobile Engineer based in Berlin 🇩🇪, specialising in **iOS**, **Kotlin Multiplatform (KMP)**, and **Flutter**.
+Senior Mobile Engineer based in Berlin 🇩🇪, specialising in **iOS**, **Android** **Kotlin Multiplatform (KMP)**, and **Flutter**.
 
-I've spent 8+ years building production-grade mobile apps across healthcare, aviation, logistics, and sports. I care about clean architecture, real test coverage, and apps that feel native — because they are.
+I've spent 15+ years building production-grade mobile apps across healthcare, aviation, logistics, and sports. I care about clean architecture, real test coverage, and apps that feel native — because they are.
 
 **Currently available for freelance engagements.**
 
@@ -89,5 +89,5 @@ Most KMP demos stop at sharing a `String`. DieMenschen implements the full produ
 ## Right Now
 
 - 🔧 Building **DieMenschen** — production KMP for iOS & Android
-- 🤝 Open to **freelance mobile projects** — iOS, KMP, Flutter
+- 🤝 Open to **freelance mobile projects** — iOS, Android, KMP, Flutter
 - 📍 Berlin, Germany — available remotely across EU timezones
