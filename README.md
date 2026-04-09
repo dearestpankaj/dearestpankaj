@@ -1,83 +1,45 @@
-# Pankaj Sachdeva
+# Hi, I'm Pankaj Sachdeva 👋
 
-Senior Mobile Engineer based in Berlin 🇩🇪, specialising in iOS, Android, Flutter and 
-Kotlin Multiplatform (KMP). I build production-grade mobile applications 
-with clean architecture, thorough testing, and a strong eye for 
-platform-native experience.
+Senior Mobile Engineer based in Berlin 🇩🇪, specialising in **iOS**, **Kotlin Multiplatform (KMP)**, and **Flutter**.
 
-**Available for freelance engagements** — feel free to reach out.
+I've spent 8+ years building production-grade mobile apps across healthcare, aviation, logistics, and sports. I care about clean architecture, real test coverage, and apps that feel native — because they are.
 
-📧 pankajsachdeva.de@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/pasachdeva/)
+**Currently available for freelance engagements.**
+
+📧 pankajsachdeva.de@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/pasachdeva/) &nbsp;|&nbsp; 🌍 Berlin (remote-friendly, EU timezone)
 
 ---
 
-## What I Do
+## What I Bring to Your Project
 
-- **iOS Development** — Swift, SwiftUI, UIKit, Combine, async/await. 
-  Native apps built to Apple's design standards with clean, 
-  testable architecture.
-- **Kotlin Multiplatform (KMP)** — shared business logic across iOS and 
-  Android. Full stack: networking, persistence, DI, and platform-native UI 
-  on both ends.
-- **Cross-platform** — Flutter for teams that need a single codebase 
-  without sacrificing quality.
-- **Architecture** — MVVM, VIPER, Clean Architecture, TCA. I care about 
-  codebases that are maintainable years later, not just at launch.
-- **CI/CD** — GitHub Actions, Bitrise, Fastlane. Automated pipelines 
-  from commit to release.
+| Need | What I deliver |
+|---|---|
+| iOS app (new or existing) | Swift · SwiftUI · UIKit · Combine · async/await |
+| Code shared across iOS & Android | Kotlin Multiplatform · SKIE · Koin · SQLDelight |
+| Cross-platform in one codebase | Flutter · Dart · Bloc |
+| Architecture you won't regret | MVVM · VIPER · Clean Architecture · TCA |
+| Shipping, not just building | GitHub Actions · Bitrise · Fastlane |
 
 ---
 
-## Commercial Projects
+## Featured Project — DieMenschen
 
-**Vivy — Health App by Allianz**  
-Health management app covering symptom assessment, telehealth video 
-consultations, medication plans, and Apple Health integration.  
-*iOS · Swift · SwiftUI · Combine · Realm · VIPER · Bitrise*
+> A production-grade Kotlin Multiplatform app — iOS and Android, fully native UI, real shared business logic.
 
----
+<!-- 🎬 VIDEO DEMO — replace the src with your YouTube/Vimeo embed URL -->
+<div align="center">
+  <a href="YOUR_VIDEO_URL_HERE">
+    <img src="https://img.shields.io/badge/▶_Watch_Demo-DieMenschen-0A66C2?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch DieMenschen demo"/>
+  </a>
+</div>
 
-**[Virgin Australia](https://apps.apple.com/au/app/virgin-australia/id1060472593)**  
-Passenger app for one of Australia's leading airlines — trip booking, 
-fare offers, and travel history.  
-*iOS · Swift · RxSwift · Realm · MVVM*
+<br/>
 
----
-
-**[Hilti ON!Track](https://apps.apple.com/us/app/hilti-on-track-3/id1440949754)**  
-Asset tracking app for construction tools, communicating over BLE and NFC. 
-Complex web service integration and real-time data processing.  
-*iOS · Swift · NFC · BLE · RxSwift · Realm · MVP*
-
----
-
-**[DP World Tour (European Tour)](https://apps.apple.com/de/app/dp-world-tour/id573521629)**  
-Live golf tournament tracking with leaderboards, player profiles, video 
-highlights, and push notification configuration.  
-*iOS · Swift · Core Data · Core Location · Brightcove · Push Notifications*
-
----
-
-**Haufe Instant Feedback**  
-Internal feedback platform for enterprise users — search, categorise, 
-and send feedback with full CI/CD integration.  
-*Flutter · iOS · Android · Bloc Architecture · GitLab CI/CD*
-
----
-
-## Side Project — DieMenschen 🚧
-
-A cross-platform mobile app built with **Kotlin Multiplatform**, sharing 
-business logic across iOS and Android while delivering fully native UI 
-on each platform.
-
-Most KMP demos stop at sharing a `String`. DieMenschen implements the 
-full production stack.
+Most KMP demos stop at sharing a `String`. DieMenschen implements the full production stack:
 
 | Layer | Technology |
 |---|---|
-| Shared logic | Kotlin Multiplatform (KMP) |
+| Shared business logic | Kotlin Multiplatform (KMP) |
 | Networking | Ktor |
 | Dependency injection | Koin |
 | Local persistence | SQLDelight |
@@ -88,24 +50,44 @@ full production stack.
 
 ---
 
-## Skills at a Glance
+## Commercial Experience
 
-**Languages**: Swift · Kotlin · Dart · Objective-C  
-**iOS**: SwiftUI · UIKit · Combine · async/await · CoreData · CoreLocation · 
-NFC · BLE · Push Notifications · HealthKit  
-**Multiplatform**: KMP · Flutter · SKIE  
-**Architecture**: MVVM · VIPER · MVP · Clean Architecture · TCA  
-**Networking**: Ktor · URLSession · Alamofire · Retrofit  
-**Persistence**: SQLDelight · Realm · CoreData  
-**DI**: Koin · Swinject  
-**Testing**: XCTest · Swift Testing · Cuckoo · MockK  
-**CI/CD**: GitHub Actions · Bitrise · Fastlane · Jenkins  
-**Tools**: Git · Xcode · Android Studio · Instruments
+15+ years delivering mobile products for clients across US, Germany, Australia, and the UK. Projects span:
+
+- **Healthcare** — Health management with symptom tracking, telehealth video consultations, and wearable integration (Allianz group client)
+- **Aviation** — Passenger app for a major Australian airline with booking, fare management, and loyalty features
+- **Industrial / IoT** — Asset tracking over BLE and NFC for a global construction tools brand
+- **Sports & Media** — Live golf tournament app with video highlights, leaderboards, and real-time push notifications for a major European tour
+- **Enterprise** — Internal feedback platform built with Flutter, shipping on iOS and Android with full CI/CD
+
+> I'm happy to discuss any of these in detail on a call — I can't always point to App Store links or code, but I can walk you through what I built and how.
 
 ---
 
-## Currently
+## Skills
 
-- 🔧 Building **DieMenschen** — production-grade KMP for iOS & Android
-- 📍 Based in **Berlin, Germany**
-- 🤝 Open to **freelance mobile projects** (iOS, KMP, Flutter)
+**Languages** &nbsp; Swift · Kotlin · Dart · Objective-C
+
+**iOS** &nbsp; SwiftUI · UIKit · Combine · async/await · CoreData · CoreLocation · NFC · BLE · HealthKit · Push Notifications
+
+**Multiplatform** &nbsp; KMP · Flutter · SKIE
+
+**Architecture** &nbsp; MVVM · VIPER · MVP · Clean Architecture · TCA
+
+**Networking** &nbsp; Ktor · URLSession · Alamofire · Retrofit
+
+**Persistence** &nbsp; SQLDelight · Realm · CoreData
+
+**DI** &nbsp; Koin · Swinject
+
+**Testing** &nbsp; XCTest · Swift Testing · Cuckoo · MockK
+
+**CI/CD** &nbsp; GitHub Actions · Bitrise · Fastlane · Jenkins
+
+---
+
+## Right Now
+
+- 🔧 Building **DieMenschen** — production KMP for iOS & Android
+- 🤝 Open to **freelance mobile projects** — iOS, KMP, Flutter
+- 📍 Berlin, Germany — available remotely across EU timezones
