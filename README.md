@@ -30,7 +30,7 @@ I've spent 15+ years building production-grade mobile apps across healthcare, av
 
 <!-- 🎬 VIDEO DEMO — replace the src with your YouTube/Vimeo embed URL -->
 <div align="center">
-  <a href="YOUR_VIDEO_URL_HERE">
+  <a href="https://youtu.be/sTKNPKtVhTA">
     <img src="https://img.shields.io/badge/▶_Watch_Demo-DieMenschen-0A66C2?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch DieMenschen demo"/>
   </a>
 </div>
