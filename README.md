@@ -34,7 +34,9 @@ I've spent 15+ years building production-grade mobile apps across healthcare, av
     <img src="https://img.shields.io/badge/▶_Watch_Demo-DieMenschen-0A66C2?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch DieMenschen demo"/>
   </a>
 </div>
-
+<a href="https://youtube.com/watch?v=sTKNPKtVhTA">
+     <img src="https://img.shields.io/badge/Watch-DieMenschen%20Demo-red?logo=youtube" alt="Watch DieMenschen demo">
+   </a>
 <br/>
 
 Most KMP demos stop at sharing a `String`. DieMenschen implements the full production stack:
